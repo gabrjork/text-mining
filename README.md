@@ -1,6 +1,6 @@
 # Text Mining with R
 
-### Copom, FOMC and Internacional Relations scripts
+### Copom, FOMC and International Relations scripts
 
 This repository contains a few text mining projects using tidytext in R. 
 
