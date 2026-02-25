@@ -21,7 +21,7 @@ _they are "download_atas.r" and "copom-txtmining.r"_
 First, run the script to download the minutes. it will create an "atas" folder in your directory in which will be saved minutes ranging from a customizable period. 
 We use webscrapping to retrieve a customizable amount of minutes. I didn't test going back from the 200th meeting: the layout used by the Central Bank was deeply modified after that one, so the URL could also be different - in which case, my current way of extraction would not work.    
 
-Then, the other script uses tidytext to read, tokenize and evaluate the minutes' stance on monetary policy using a Loughram lexicon mixed with a personalized one. This approach is heavily based in the BIS paper by Chong and Ho (2022) and especially the 2017 book by Julie Silge. 
+Then, the other script uses tidytext to read, tokenize and evaluate the minutes' stance on monetary policy using a Loughram lexicon mixed with a personalized one. This approach is heavily based in the BIS workshop by Chong and Ho (2022) and especially the 2017 book by Julie Silge. 
 
 
 ### About the FOMC scripts:
