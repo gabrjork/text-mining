@@ -8,7 +8,7 @@ While the focus and original intent was to quantify Central Bank comunication se
 to be very useful in another application: Discourse Analysis in International Relations. It is not my field of work or research, 
 but I turned myself to it to contribute with a Vida (2025) paper. 
 
-All scripts were made with help from AI to initially structure the code, specifically Gemini 3 Pro and Claude Sonnet 4.5. 
+All scripts were made with help from AI to initially structure the code and specially to figure out the webscraping sections and, specifically Gemini 3 Pro and Claude Sonnet 4.5. 
 All qualitative stuff (like personalized lexicon, categories and weights) were not. 
 
 I hope these scripts can be useful as a starting point for other projects :) 
